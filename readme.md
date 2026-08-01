@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&size=30&duration=3000&pause=1000&color=2D7FF9&center=true&width=600&height=50&lines=Hello,+I'm+MronRunned;Full+Stack+Developer;Game+Developer;Multi-Language+Programmer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&size=30&duration=3000&pause=1000&color=2D7FF9&center=true&width=600&height=50&lines=Hello,+I'm+xbash;Full+Stack+Developer;Game+Developer;Multi-Language+Programmer" alt="Typing Animation" />
   
   <br/>
   
